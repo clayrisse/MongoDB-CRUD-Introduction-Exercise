@@ -30,6 +30,12 @@ After the initial step of creating the database and the collection we will have 
 
 <br>
 
+### Reference
+
+#### [MongoDB Introduction - Lecture Summary](https://gist.github.com/ross-u/cf1f144c7706610e9f70c2700f8b391d)
+
+<br>
+
 <hr>
 
 **Task 1 :**
